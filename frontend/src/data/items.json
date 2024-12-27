@@ -1,0 +1,27 @@
+[
+  {
+    "img": "https://m.media-amazon.com/images/I/7196ULyJnaL._AC_UF1000,1000_QL80_.jpg",
+    "title": "Paper-bags",
+    "description": "Made from High-Quality Kraft Paper. 100% Recyclable. Eco-Friendly alternate for plastic carry bags. Customization - We offer size, print & color customization as well.",
+    "link":"/paperBag"
+  },
+  {
+    "img": "https://www.upack.in/media/catalog/product/cache/434b5723752bfe2768a169417576f99a/p/a/paperwrap1.jpg",
+    "title": "Honeycomb wraps",
+    "description": "Made from High-Quality Kraft Paper. 100% Recyclable. Eco-Friendly alternate for plastic Bubble wraps.Customization - We offer size & color customization as well.",
+    "link":"/honeyComb"
+  },
+  {
+    "img": "https://m.media-amazon.com/images/I/61-lEkrh5VL.jpg",
+    "title": "Adhesive paper-tapes",
+    "description": "Self Adhesive Kraft Paper Tape is used to seal cartons and other packages. The tapes are made of high-strength MG Kraft paper that is resistant to moisture and humidity.",
+    "link":"/paperTapes"
+  },
+  {
+    "img": "https://image.made-in-china.com/202f0j00ywNVjnPtSHgb/Food-Grade-Disposable-Kraft-Paper-Salad-Bowl-Takeaway-Food-Packaging-From-China.jpg",
+    "title": "Food-grade Paper-package",
+    "description": "A range of food grade and greaseproof Paper Bags made from 100% pure virgin paper,high impermeability to oil,grease.The  paper bags allow the food to breathe and steam off excess moisture",
+    "link":"/foodPack"
+  }
+
+]
